@@ -50,6 +50,7 @@ Personal example for my work at EMBL:
 
 <details>
 <summary>Some tips:</summary>
+
 Note: the following recommendations do not represent professional advice.
 
 * Use the color palette of your institution
@@ -61,9 +62,9 @@ Note: the following recommendations do not represent professional advice.
 * Remove non-essential text / figures
 * Include contact information
 * Proofread and spell-check the text
-* Ask for feedback before printing 
 * Use SVG Figures 
-* If you have QR codes, check that they are working.
-
+* Verify that the affiliations are correct
+* If there are QR codes, check that they work as expected
+* Ask for feedback before printing
 
 </details>
