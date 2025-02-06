@@ -24,11 +24,11 @@ This template was used for the Biophysical Society Annual Meeting (2025) (https:
 
 What you'll get in Figma:
 
-![JPEG Template A0 oversize landscape](assets/A0oversize_landscape_figma.png)
+![PNG Template A0 oversize landscape](assets/A0oversize_landscape_figma.png)
      
 Personal example for my work at EMBL:
 
-![PNG EMBL Template A0 oversize landscape](assets/A0oversize_landscape_embl.jpg)
+![JPG EMBL Template A0 oversize landscape](assets/A0oversize_landscape_embl.jpg)
 
 ### Template A0 portrait
 
@@ -36,8 +36,8 @@ This template was used for the MOSBRI Conference 2024 (https://www.mosbri.eu/eve
 
 What you'll get in Figma:
 
-![JPEG Template A0 portrait](assets/A0_portrait_figma.jpg)     
+![PNG Template A0 portrait](assets/A0_portrait_figma.png)     
 
 Personal example for my work at EMBL:
 
-![PNG EMBL Template A0 portrait](assets/A0_portrait_embl.jpg)
+![JPG EMBL Template A0 portrait](assets/A0_portrait_embl.jpg)
