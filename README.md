@@ -6,7 +6,7 @@ Osvaldo Burastero and Silvia Burastero
 
 ---
 ## What's in this repository
-This (unofficial) repository contains two templates for a scientific poster. The templates were used to present research software (https://spc.embl-hamburg.de/).
+This (**unofficial**) repository contains two templates for a scientific poster. The templates were used to present research software (https://spc.embl-hamburg.de/).
 The size in pixels corresponds to 72 dpi.
 
 The templates are made available as Figma files (.fig).
