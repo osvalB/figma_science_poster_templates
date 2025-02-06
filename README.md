@@ -18,7 +18,8 @@ Why Figma? Because 1) many persons can edit at the same time, 2) it's easy to us
 2) Go to https://www.figma.com/ and log in
 3) Import the Figma design file and edit as desired
 
-### Template A0 oversize landscape
+<details>
+<summary>Template A0 oversize landscape</summary>
 
 This template was used for the Biophysical Society Annual Meeting (2025) (https://www.biophysics.org/2025meeting#/)
 
@@ -30,7 +31,10 @@ Personal example for my work at EMBL:
 
 ![JPG EMBL Template A0 oversize landscape](assets/A0oversize_landscape_embl.jpg)
 
-### Template A0 portrait
+</details>
+
+<details>
+<summary>Template A0 portrait</summary>
 
 This template was used for the MOSBRI Conference 2024 (https://www.mosbri.eu/events/conferences/ljubljana-2024/)
 
@@ -41,3 +45,25 @@ What you'll get in Figma:
 Personal example for my work at EMBL:
 
 ![JPG EMBL Template A0 portrait](assets/A0_portrait_embl.jpg)
+
+</details>
+
+<details>
+<summary>Some tips:</summary>
+Note: the following recommendations do not represent professional advice.
+
+* Use the color palette of your institution
+* Limit the color scheme to 3-4 colors 
+* Embrace white space
+* Pay attention to margins
+* Ensure the correct alignment of text and figures
+* Ensure figure legends and text are readable 
+* Remove non-essential text / figures
+* Include contact information
+* Proofread and spell-check the text
+* Ask for feedback before printing 
+* Use SVG Figures 
+* If you have QR codes, check that they are working.
+
+
+</details>
